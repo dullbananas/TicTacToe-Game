@@ -1,6 +1,6 @@
 # TicTacToe Game
 
-A simple TicTacToe game implementation in Java.
+A simple TicTacToe game implementation written in Java.
 
 ## Features
 
